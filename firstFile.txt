@@ -1,1 +1,1 @@
-Hello SmartGit.I am ready to operation from you
+Hello SmartGit.I am ready to operation for release-1.0
