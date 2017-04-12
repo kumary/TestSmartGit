@@ -1,1 +1,1 @@
-Hello SmartGit.I am ready to operation for release-1.0
+Hello SmartGit.I am ready to operation for release-1.0 am I am in First File.
